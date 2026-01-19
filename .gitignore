@@ -1,0 +1,12 @@
+# Datasets
+*.zip
+data/
+Datasets/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environnements
+.env
+.venv
