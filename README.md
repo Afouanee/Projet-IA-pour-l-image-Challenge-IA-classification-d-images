@@ -40,7 +40,3 @@ MNIST.ipynb                                  # notebook MNIST
 Bases Kaggle_ImageNet .ipynb                 # notebook jeux Kaggle / ImageNet
 data/                                        # à créer : jeux de données Kaggle (non inclus)
 ```
-
----
-🔗 **Fiche projet** : [afouanee.dev/projects/ai-image-classification-challenge](https://afouanee.dev/projects/ai-image-classification-challenge)
-👤 **Auteur** : Afouane MOUHAMAD — [Portfolio](https://afouanee.dev) · [LinkedIn](https://linkedin.com/in/afouane-mouhamad)
