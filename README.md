@@ -36,7 +36,13 @@ python cnn.py
 ```
 cnn.py                                       # classifieur CNN (Keras)
 RK_Image_Classification_Bag_of_Visual_Words.py  # pipeline ORB + k-means + SVM
-MNIST.ipynb                                  # notebook MNIST
-Bases Kaggle_ImageNet .ipynb                 # notebook jeux Kaggle / ImageNet
+MNIST.ipynb                                  # notebook d'exploration ORB/keypoints (une cellule)
+Bases Kaggle_ImageNet .ipynb                 # notebook jamais rempli (cellules vides)
 data/                                        # à créer : jeux de données Kaggle (non inclus)
 ```
+
+> ⚠️ Les deux notebooks sont des brouillons d'exploration, pas des pipelines complets
+> et documentés : `MNIST.ipynb` ne contient qu'une cellule de test ORB/keypoints (déjà
+> corrigée pour être syntaxiquement valide, mais sans dataset local elle ne s'exécute
+> pas), et `Bases Kaggle_ImageNet .ipynb` est resté vide. Le pipeline réellement abouti
+> et documenté est `RK_Image_Classification_Bag_of_Visual_Words.py`.
